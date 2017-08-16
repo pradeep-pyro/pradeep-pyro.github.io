@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Pradeep~KJ</title>
+    <link>pradeep-pyro.github.io/publication/</link>
+    <description>Recent content in Publications on Pradeep~KJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Pradeep Kumar Jayaraman</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="pradeep-pyro.github.io/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Globally Consistent Wrinkle-Aware Shading of Line Drawings</title>
+      <link>pradeep-pyro.github.io/publication/wrinkle/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>pradeep-pyro.github.io/publication/wrinkle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive High-Relief Reconstruction for Organic and Double-sided Objects from a Photo</title>
+      <link>pradeep-pyro.github.io/publication/highrelief/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>pradeep-pyro.github.io/publication/highrelief/</guid>
+      <description>
+
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/FMMCUjPIMbo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Interlocking Furniture Assembly</title>
+      <link>pradeep-pyro.github.io/publication/furniture/</link>
+      <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>pradeep-pyro.github.io/publication/furniture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.5D Cartoon Hair Modeling and Manipulation</title>
+      <link>pradeep-pyro.github.io/publication/cartoonhair/</link>
+      <pubDate>Sat, 07 Mar 2015 20:43:37 +0800</pubDate>
+      
+      <guid>pradeep-pyro.github.io/publication/cartoonhair/</guid>
+      <description>
+
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XimYf0-j8Ec&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Line Drawing Recognition and Vectorization with Commodity Camera</title>
+      <link>pradeep-pyro.github.io/publication/pentrack/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>pradeep-pyro.github.io/publication/pentrack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
