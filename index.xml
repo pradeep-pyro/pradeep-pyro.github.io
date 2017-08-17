@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Pradeep~KJ</title>
-    <link>pradeep-pyro.github.io/</link>
+    <link>https://pradeep-pyro.github.io/</link>
     <description>Recent content in Home on Pradeep~KJ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Pradeep Kumar Jayaraman</copyright>
     <lastBuildDate>Thu, 16 Mar 2017 17:27:30 +0800</lastBuildDate>
-    <atom:link href="pradeep-pyro.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Globally Consistent Wrinkle-Aware Shading of Line Drawings</title>
-      <link>pradeep-pyro.github.io/publication/wrinkle/</link>
+      <link>https://pradeep-pyro.github.io/publication/wrinkle/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>pradeep-pyro.github.io/publication/wrinkle/</guid>
+      <guid>https://pradeep-pyro.github.io/publication/wrinkle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive High-Relief Reconstruction for Organic and Double-sided Objects from a Photo</title>
-      <link>pradeep-pyro.github.io/publication/highrelief/</link>
+      <link>https://pradeep-pyro.github.io/publication/highrelief/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>pradeep-pyro.github.io/publication/highrelief/</guid>
+      <guid>https://pradeep-pyro.github.io/publication/highrelief/</guid>
       <description>
 
 &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
@@ -35,19 +35,19 @@
     
     <item>
       <title>Computational Interlocking Furniture Assembly</title>
-      <link>pradeep-pyro.github.io/publication/furniture/</link>
+      <link>https://pradeep-pyro.github.io/publication/furniture/</link>
       <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>pradeep-pyro.github.io/publication/furniture/</guid>
+      <guid>https://pradeep-pyro.github.io/publication/furniture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2.5D Cartoon Hair Modeling and Manipulation</title>
-      <link>pradeep-pyro.github.io/publication/cartoonhair/</link>
+      <link>https://pradeep-pyro.github.io/publication/cartoonhair/</link>
       <pubDate>Sat, 07 Mar 2015 20:43:37 +0800</pubDate>
       
-      <guid>pradeep-pyro.github.io/publication/cartoonhair/</guid>
+      <guid>https://pradeep-pyro.github.io/publication/cartoonhair/</guid>
       <description>
 
 &lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>Interactive Line Drawing Recognition and Vectorization with Commodity Camera</title>
-      <link>pradeep-pyro.github.io/publication/pentrack/</link>
+      <link>https://pradeep-pyro.github.io/publication/pentrack/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>pradeep-pyro.github.io/publication/pentrack/</guid>
+      <guid>https://pradeep-pyro.github.io/publication/pentrack/</guid>
       <description></description>
     </item>
     
