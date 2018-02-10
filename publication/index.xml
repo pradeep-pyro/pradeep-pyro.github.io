@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Image Processing Approach To Feature-preserving B-spline Surface Fairing</title>
+      <link>https://pradeep-pyro.github.io/publication/ipbf/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/publication/ipbf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Globally Consistent Wrinkle-Aware Shading of Line Drawings</title>
       <link>https://pradeep-pyro.github.io/publication/wrinkle/</link>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
