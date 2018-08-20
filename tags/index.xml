@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Pradeep~KJ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Pradeep Kumar Jayaraman</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Pradeep Kumar Jayaraman 2018</copyright>
     
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://pradeep-pyro.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://pradeep-pyro.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://pradeep-pyro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

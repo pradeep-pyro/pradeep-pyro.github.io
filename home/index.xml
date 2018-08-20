@@ -6,9 +6,48 @@
     <description>Recent content in Homes on Pradeep~KJ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Pradeep Kumar Jayaraman</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Pradeep Kumar Jayaraman 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://pradeep-pyro.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pradeep-pyro.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/home/about/</guid>
+      <description>Bio I am a postdoctoral research fellow at the Multimedia and Interactive Computing Lab, Nanyang Technological University. My broad research interests lie at the intersection of computer graphics, computer vision, and numerical optimization. Specifically, I am interested in problems revolving around geometry processing (shape analysis, deformation), sketch understanding, 2.5D modeling, and deep learning (for graphics and 3D vision).</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://pradeep-pyro.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://pradeep-pyro.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional Activities</title>
+      <link>https://pradeep-pyro.github.io/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/home/activities/</guid>
+      <description>I serve as a technical paper reviewer for the following journals and conferences.
+ The Visual Computer (2017 &amp;ndash; Present) Computers &amp;amp; Graphics (2017 &amp;ndash; Present) Eurographics 2018 SIGGRAPH 2018  </description>
+    </item>
     
   </channel>
 </rss>

@@ -6,9 +6,29 @@
     <description>Recent content in Publications on Pradeep~KJ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Pradeep Kumar Jayaraman</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Pradeep Kumar Jayaraman 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://pradeep-pyro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quadtree Convolutional Neural Networks</title>
+      <link>https://pradeep-pyro.github.io/publication/quadtree-cnn/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/publication/quadtree-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedding QR Codes onto B-spline Surfaces for 3D Printing</title>
+      <link>https://pradeep-pyro.github.io/publication/qr-bspline/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pradeep-pyro.github.io/publication/qr-bspline/</guid>
+      <description> Video  </description>
+    </item>
     
     <item>
       <title>An Image Processing Approach To Feature-preserving B-spline Surface Fairing</title>
@@ -16,7 +36,7 @@
       <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pradeep-pyro.github.io/publication/ipbf/</guid>
-      <description></description>
+      <description> Video  </description>
     </item>
     
     <item>
@@ -34,12 +54,7 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pradeep-pyro.github.io/publication/highrelief/</guid>
-      <description>
-
-&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/FMMCUjPIMbo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description> Video  </description>
     </item>
     
     <item>
@@ -57,12 +72,7 @@
       <pubDate>Sat, 07 Mar 2015 20:43:37 +0800</pubDate>
       
       <guid>https://pradeep-pyro.github.io/publication/cartoonhair/</guid>
-      <description>
-
-&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XimYf0-j8Ec&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description> Video  </description>
     </item>
     
     <item>
