@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+    <url>
+    
+      <loc>https://pradeep-pyro.github.io/software/tinynurbs/</loc>
+      <lastmod>2018-10-15T00:00:00+08:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -11,7 +18,6 @@
     
   
     
-    
     <url>
     
       <loc>https://pradeep-pyro.github.io/publication/qr-bspline/</loc>
@@ -19,7 +25,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -29,7 +34,6 @@
     
   
     
-    
     <url>
     
       <loc>https://pradeep-pyro.github.io/publication/wrinkle/</loc>
@@ -37,7 +41,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -47,7 +50,6 @@
     
   
     
-    
     <url>
     
       <loc>https://pradeep-pyro.github.io/publication/</loc>
@@ -55,7 +57,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -65,6 +66,13 @@
     
   
     
+    <url>
+    
+      <loc>https://pradeep-pyro.github.io/software/triangle/</loc>
+      <lastmod>2015-10-15T00:00:00+08:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
@@ -74,7 +82,6 @@
     
   
     
-    
     <url>
     
       <loc>https://pradeep-pyro.github.io/publication/cartoonhair/</loc>
@@ -82,7 +89,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -92,7 +98,6 @@
     
   
     
-    
     <url>
     
       <loc>https://pradeep-pyro.github.io/categories/</loc>
@@ -100,7 +105,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -111,7 +115,6 @@
     
   
     
-    
     <url>
     
       <loc>https://pradeep-pyro.github.io/publication_types/</loc>
@@ -120,10 +123,27 @@
     
   
     
+    <url>
+    
+      <loc>https://pradeep-pyro.github.io/software/</loc>
+      <lastmod>2018-10-15T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
       <loc>https://pradeep-pyro.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pradeep-pyro.github.io/tags/software/</loc>
+      <lastmod>2018-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
